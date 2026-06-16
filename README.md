@@ -41,7 +41,7 @@ During the PCB design process, special attention was given to:
 
 ## Software Used
 
-* KiCad / Altium Designer *(update according to the software used)*
+* Altium Designer *(update according to the software used)*
 * PCB fabrication outputs generated according to standard manufacturing requirements
 
 ## Author
@@ -50,5 +50,9 @@ During the PCB design process, special attention was given to:
 PCB Design Engineer
 https://www.linkedin.com/in/shahabyousafzai004/
 
-Feel free to review the design, provide feedback, or contribute improvements.
-For your custom PCB Design, contact me
+
+🔗For your custom order, visit: https://www.linkedin.com/in/shahabyousafzai004/
+
+I am continuously expanding my portfolio in PCB Design, Embedded Systems, and Electronics Product Development.
+
+If you're developing a hardware product and need support with schematic design, PCB layout, or prototype-ready electronics, feel free to connect.
